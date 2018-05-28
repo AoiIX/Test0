@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test0</string>
+    <string name="buttonBack">REGRESAR</string>
+    <string name="id">ID: </string>
+    <string name="userId">USER ID: </string>
+    <string name="title">TITLE</string>
+    <string name="body">BODY</string>
+    <string name="error_server">Server is not responding</string>
+    <string name="error_internet">Internet connection not found</string>
+</resources>
